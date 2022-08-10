@@ -3,6 +3,8 @@
 
 ## 2022
 
+- [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech.](https://arxiv.org/abs/2205.07211) **Rongjie Huang**, Yi Ren, Jinglin Liu, Chenye Cui, and Zhou Zhao. **Preprint, 2022**
+
 - [FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis.](https://arxiv.org/abs/2204.09934) **Rongjie Huang**, Max W.Y. Lam, Jun Wang, Dan Su, Dong Yu, Yi Ren, and Zhou Zhao. **IJCAI, 2022(oral)**
 
 - [ProDiff: Progressive Fast Diffusion Model for High-Quality Text-to-Speech.]() **Rongjie Huang**, Zhou Zhao, Huadai Liu, Jinglin Liu, and Yi Ren. **ACM MM, 2022**
