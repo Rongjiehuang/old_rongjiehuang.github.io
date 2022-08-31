@@ -24,3 +24,6 @@ redirect_from:
 {% include_relative includes/award.md %}
 
 {% include_relative includes/work.md %}
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=USVT5ZdiMifi_f-uIMrY3tmJJC5s1RLU2rz5sVs8mjY&cl=ffffff&w=a"></script>
