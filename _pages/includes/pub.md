@@ -1,4 +1,5 @@
 # 📝 Publications 
+His recent works include **GenerSpeech (NeurIPS 2022)** for domain-generalizable text-to-speech, **FastDiff (IJCAI 2022) / ProDiff (ACM-MM 2022a)** for diffusion text-to-speech, and **SingGAN (ACM-MM 2022b) / Multi-Singer (ACM-MM 2021)** for singing voice synthesis. Most of the research has code open-sourced at [GitHub](https://github.com/Rongjiehuang). 
 
 
 ## 2022
@@ -12,6 +13,9 @@
 
 </div>
 </div>
+
+
+- [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus.](https://arxiv.org/abs/2205.07211) Lichao Zhang, Ruiqi Li, Shoutong Wang, Liqun Deng, Jinglin Liu, Yi Ren, Jinzheng He, **Rongjie Huang**, Jieming Zhu, Xiao Chen, and Zhou Zhao. **NeurIPS, 2022**
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICJAI 2022</div><img src='images/fastdiff.png' alt="sym" width="100%"></div></div>
@@ -50,7 +54,7 @@
 
 ## 2021
 
-- [Multi-singer: Fast multi-singer singing voice vocoder with a large-scale corpus.](https://dl.acm.org/doi/abs/10.1145/3474085.3475437) **Rongjie Huang**, Feiyang Chen, Yi Ren, Jinglin Liu, Chenye Cui, and Zhou Zhao. **ACM MM, 2021(oral)** 
+- [Multi-Singer: Fast multi-singer singing voice vocoder with a large-scale corpus.](https://dl.acm.org/doi/abs/10.1145/3474085.3475437) **Rongjie Huang**, Feiyang Chen, Yi Ren, Jinglin Liu, Chenye Cui, and Zhou Zhao. **ACM MM, 2021(oral)** 
 | [**Project**](https://multi-singer.github.io/) | [![](https://img.shields.io/github/stars/Rongjiehuang/multi-singer?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/multi-singer)
 
 - [SingGAN: Generative Adversarial NetWork For High-Fidelity Singing Voice Generation.](https://arxiv.org/abs/2110.07468) **Rongjie Huang**, Chenye Cui, Feiyang Chen, Yi Ren, Jinglin Liu, and Zhou Zhao. **ACM MM, 2022**  [**Project**](https://singgan.github.io/) 
