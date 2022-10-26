@@ -23,7 +23,7 @@ His recent works include **GenerSpeech (NeurIPS 2022)** for domain-generalizable
 
 - [FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis.](https://arxiv.org/abs/2204.09934) **Rongjie Huang**, Max W.Y. Lam, Jun Wang, Dan Su, Dong Yu, Yi Ren, and Zhou Zhao. **IJCAI, 2022(oral). Vienna, Austria** 
 
-- **Impact**: Our work are promoted by different media and forums, such as [Tencent AI Lab](https://mp.weixin.qq.com/s/GmLzLw3GnDsK0OuUpgEySQ), [Speech Home](https://mp.weixin.qq.com/s/BWf_uZdG0icWk5odChxhuA), and [Twitter](https://twitter.com/_akhaliq/status/1517308526691065856). We have code released at [![](https://img.shields.io/github/stars/Rongjiehuang/FastDiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/FastDiff), which is a [Trending Project at both Github and Paperwithcode.](https://twitter.com/pythontrending/status/1528332486257819651)
+- **Academic / Industry Impact**: Our work are promoted by different media and forums, such as [Tencent AI Lab](https://mp.weixin.qq.com/s/GmLzLw3GnDsK0OuUpgEySQ), [Speech Home](https://mp.weixin.qq.com/s/BWf_uZdG0icWk5odChxhuA), and [Twitter](https://twitter.com/_akhaliq/status/1517308526691065856). We have code released at [![](https://img.shields.io/github/stars/Rongjiehuang/FastDiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/FastDiff) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Rongjiehuang/ProDiff), which is a [Trending Project at both Github and Paperwithcode.](https://twitter.com/pythontrending/status/1528332486257819651) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Rongjiehuang/ProDiff)
 
 </div>
 </div>
@@ -34,7 +34,7 @@ His recent works include **GenerSpeech (NeurIPS 2022)** for domain-generalizable
 
 - [ProDiff: Progressive Fast Diffusion Model for High-Quality Text-to-Speech.]() **Rongjie Huang**, Zhou Zhao, Huadai Liu, Jinglin Liu, and Yi Ren. **ACM MM, 2022. Lisbon, Portugal**
 
-- We have code released at [![](https://img.shields.io/github/stars/Rongjiehuang/prodiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/prodiff), which is a [Trending Project at Github and Paperwithcode.](https://github.motakasoft.com/trending/?d=2022-09-08&l=python) 
+- **Academic / Industry Impact**: Our work are promoted by different media and forums, such as [PaperWeekly](https://mp.weixin.qq.com/s/r8_bO_yCIeV-Oi_j9ROClw), [Speech Home](https://mp.weixin.qq.com/s/Kr8cNXd1H10iIrok4n2bbA), and [时序人](https://mp.weixin.qq.com/s/0l_yVoGrgqnx3gFb5qX2jQ). We have code released at [![](https://img.shields.io/github/stars/Rongjiehuang/prodiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/prodiff) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Rongjiehuang/ProDiff), which is a [Trending Project at Github and Paperwithcode.](https://github.motakasoft.com/trending/?d=2022-09-08&l=python)
 
 <!-- Our work are promoted by different media and forums, such as [Twitter](https://twitter.com/_akhaliq/status/1547393744911097856).  -->
 
