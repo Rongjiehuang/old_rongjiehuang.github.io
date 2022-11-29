@@ -2,6 +2,16 @@
 His recent works include **GenerSpeech (NeurIPS 2022)** for domain-generalizable text-to-speech, **FastDiff (IJCAI 2022) / ProDiff (ACM-MM 2022a)** for diffusion text-to-speech, and **SingGAN (ACM-MM 2022b) / Multi-Singer (ACM-MM 2021)** for singing voice synthesis. Most of the research has code open-sourced at [GitHub](https://github.com/Rongjiehuang). 
 
 
+## 2023
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/transpeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation.](https://arxiv.org/abs/2205.12523) **Rongjie Huang**, Jinglin Liu, Huadai Liu, Yi Ren, Lichao Zhang, Jinzheng He, and Zhou Zhao. **Arxiv**
+
+</div>
+</div>
+
 ## 2022
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/generspeech.png' alt="sym" width="100%"></div></div>
@@ -15,15 +25,12 @@ His recent works include **GenerSpeech (NeurIPS 2022)** for domain-generalizable
 </div>
 
 
-- [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus.](https://arxiv.org/abs/2205.07211) Lichao Zhang, Ruiqi Li, Shoutong Wang, Liqun Deng, Jinglin Liu, Yi Ren, Jinzheng He, **Rongjie Huang**, Jieming Zhu, Xiao Chen, and Zhou Zhao. **NeurIPS, 2022. New Orleans, USA**
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICJAI 2022</div><img src='images/fastdiff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis.](https://arxiv.org/abs/2204.09934) **Rongjie Huang**, Max W.Y. Lam, Jun Wang, Dan Su, Dong Yu, Yi Ren, and Zhou Zhao. **IJCAI, 2022(oral). Vienna, Austria** 
 
-- **Academic / Industry Impact**: Our work are promoted by different media and forums, such as [Tencent AI Lab](https://mp.weixin.qq.com/s/GmLzLw3GnDsK0OuUpgEySQ), [Speech Home](https://mp.weixin.qq.com/s/BWf_uZdG0icWk5odChxhuA), and [Twitter](https://twitter.com/_akhaliq/status/1517308526691065856). We have code released at [![](https://img.shields.io/github/stars/Rongjiehuang/FastDiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/FastDiff) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Rongjiehuang/ProDiff), which is a [Trending Project at both Github and Paperwithcode.](https://twitter.com/pythontrending/status/1528332486257819651) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Rongjiehuang/ProDiff)
+- **Academic / Industry Impact**: Our work are promoted by different media and forums, such as [Tencent AI Lab](https://mp.weixin.qq.com/s/GmLzLw3GnDsK0OuUpgEySQ), [Speech Home](https://mp.weixin.qq.com/s/BWf_uZdG0icWk5odChxhuA), and [Twitter](https://twitter.com/_akhaliq/status/1517308526691065856). We have code released at [![](https://img.shields.io/github/stars/Rongjiehuang/FastDiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/FastDiff) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Rongjiehuang/ProDiff), which is a [Trending Project at both Github and Paperwithcode.](https://twitter.com/pythontrending/status/1528332486257819651) 
 
 </div>
 </div>
@@ -41,6 +48,10 @@ His recent works include **GenerSpeech (NeurIPS 2022)** for domain-generalizable
 </div>
 </div>
 
+
+- [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus.](https://arxiv.org/abs/2205.07211) Lichao Zhang, Ruiqi Li, Shoutong Wang, Liqun Deng, Jinglin Liu, Yi Ren, Jinzheng He, **Rongjie Huang**, Jieming Zhu, Xiao Chen, and Zhou Zhao. **NeurIPS, 2022. New Orleans, USA**
+
+- [VarietySound: Timbre-Controllable Video to Sound Generation via Unsupervised Information Disentanglement.]() Chenye Cui, Yi Ren, Jinglin Liu, Rongjie Huang, Zhou Zhao. **Preprint**
 
 <!-- 
 - [ProDiff: Progressive Fast Diffusion Model for High-Quality Text-to-Speech.]() **Rongjie Huang**, Zhou Zhao, Huadai Liu, Jinglin Liu, and Yi Ren. **ACM MM, 2022**
