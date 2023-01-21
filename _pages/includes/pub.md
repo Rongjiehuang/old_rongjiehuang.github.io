@@ -1,13 +1,13 @@
 # 📝 Publications 
-His recent works include **GenerSpeech (NeurIPS 2022)** for domain-generalizable text-to-speech, **FastDiff (IJCAI 2022) / ProDiff (ACM-MM 2022a)** for diffusion text-to-speech, and **SingGAN (ACM-MM 2022b) / Multi-Singer (ACM-MM 2021)** for singing voice synthesis. Most of the research has code open-sourced at [GitHub](https://github.com/Rongjiehuang). 
+His recent works include **TranSpeech (ICLR 2023)** for direct speech-to-speech translation, **GenerSpeech (NeurIPS 2022)** for domain-generalizable text-to-speech, **FastDiff (IJCAI 2022) / ProDiff (ACM-MM 2022a)** for diffusion text-to-speech, and **SingGAN (ACM-MM 2022b) / Multi-Singer (ACM-MM 2021)** for singing voice synthesis. Most of the research has code open-sourced at [GitHub](https://github.com/Rongjiehuang). 
 
 
 ## 2023
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/transpeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/transpeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation.](https://arxiv.org/abs/2205.12523) **Rongjie Huang**, Jinglin Liu, Huadai Liu, Yi Ren, Lichao Zhang, Jinzheng He, and Zhou Zhao. **Arxiv**
+- [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation.](https://arxiv.org/abs/2205.12523) **Rongjie Huang**, Jinglin Liu, Huadai Liu, Yi Ren, Lichao Zhang, Jinzheng He, and Zhou Zhao. **ICLR, 2023. Kigali, Rwanda**
 
 </div>
 </div>
@@ -19,7 +19,8 @@ His recent works include **GenerSpeech (NeurIPS 2022)** for domain-generalizable
 
 - [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech.](https://arxiv.org/abs/2205.07211) **Rongjie Huang**, Yi Ren, Jinglin Liu, Chenye Cui, and Zhou Zhao. **NeurIPS, 2022. New Orleans, USA**
 
-- Code will be released soon.
+Our work are promoted by different media and forums, such as [PaperWeekly](https://mp.weixin.qq.com/s/Mp181vfq24m1HqgJqbMnlg), [Speech Home](https://mp.weixin.qq.com/s/EXdfb0DUTbB6OHbjDS2u7g). We have code released at [![](https://img.shields.io/github/stars/Rongjiehuang/GenerSpeech?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/GenerSpeech). 
+
 
 </div>
 </div>
