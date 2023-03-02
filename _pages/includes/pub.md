@@ -1,8 +1,20 @@
+
 # 📝 Publications 
-His recent works include **TranSpeech (ICLR 2023)** for direct speech-to-speech translation, **GenerSpeech (NeurIPS 2022)** for domain-generalizable text-to-speech, **FastDiff (IJCAI 2022) / ProDiff (ACM-MM 2022a)** for diffusion text-to-speech, and **SingGAN (ACM-MM 2022b) / Multi-Singer (ACM-MM 2021)** for singing voice synthesis. Most of the research has code open-sourced at [GitHub](https://github.com/Rongjiehuang). 
+## Generative AI for audio
+- Text-to-Speech Synthesis: **GenerSpeech (NeurIPS 2022)** for domain-generalizable text-to-speech, **FastDiff (IJCAI 2022) / ProDiff (ACM-MM 2022a)** for diffusion text-to-speech
+- Singing Voice Synthesis: **SingGAN (ACM-MM 2022b) / Multi-Singer (ACM-MM 2021)**
+
+- General Audio Synthesis: **Make-An-Audio**
 
 
-## 2023
+<!-- His recent works include **TranSpeech (ICLR 2023)** for direct speech-to-speech translation, **GenerSpeech (NeurIPS 2022)** for domain-generalizable text-to-speech, **FastDiff (IJCAI 2022) / ProDiff (ACM-MM 2022a)** for diffusion text-to-speech, and **SingGAN (ACM-MM 2022b) / Multi-Singer (ACM-MM 2021)** for singing voice synthesis. Most of the research has code open-sourced at [GitHub](https://github.com/Rongjiehuang).  -->
+
+## Spoken language understanding
+- Speech-to-speech Translation: **TranSpeech (ICLR 2023) / AV-TranSpeech**
+- Speech-to-SQL Parsing: **Wav2SQL**
+- Self-supervised Learning: **Prosody-MAE**
+
+# 2023
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/make-an-audio-arch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -22,7 +34,9 @@ Code will be released soon.
 </div>
 </div>
 
-## 2022
+- [InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt.]() Dongchao Yang, Songxiang Liu, **Rongjie Huang**, Guangzhi Lei, Chao Weng, Helen Meng, Dong Yu. **Arxiv**
+
+# 2022
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/generspeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -62,7 +76,7 @@ Our work are promoted by different media and forums, such as [PaperWeekly](https
 
 - [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus.](https://arxiv.org/abs/2205.07211) Lichao Zhang, Ruiqi Li, Shoutong Wang, Liqun Deng, Jinglin Liu, Yi Ren, Jinzheng He, **Rongjie Huang**, Jieming Zhu, Xiao Chen, and Zhou Zhao. **NeurIPS, 2022. New Orleans, USA**
 
-- [VarietySound: Timbre-Controllable Video to Sound Generation via Unsupervised Information Disentanglement.]() Chenye Cui, Yi Ren, Jinglin Liu, Rongjie Huang, Zhou Zhao. **Preprint**
+- [VarietySound: Timbre-Controllable Video to Sound Generation via Unsupervised Information Disentanglement.]() Chenye Cui, Yi Ren, Jinglin Liu, **Rongjie Huang**, Zhou Zhao. **ICASSP, 2023**
 
 <!-- 
 - [ProDiff: Progressive Fast Diffusion Model for High-Quality Text-to-Speech.]() **Rongjie Huang**, Zhou Zhao, Huadai Liu, Jinglin Liu, and Yi Ren. **ACM MM, 2022**
@@ -74,7 +88,7 @@ Our work are promoted by different media and forums, such as [PaperWeekly](https
 
 
 
-## 2021
+# 2021
 
 - [Multi-Singer: Fast multi-singer singing voice vocoder with a large-scale corpus.](https://dl.acm.org/doi/abs/10.1145/3474085.3475437) **Rongjie Huang**, Feiyang Chen, Yi Ren, Jinglin Liu, Chenye Cui, and Zhou Zhao. **ACM MM, 2021(oral). Chengdu, China** 
 | [**Project**](https://multi-singer.github.io/) | [![](https://img.shields.io/github/stars/Rongjiehuang/multi-singer?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/multi-singer)
@@ -87,7 +101,7 @@ Our work are promoted by different media and forums, such as [PaperWeekly](https
 - [Bilateral Denoising Diffusion Models.](https://arxiv.org/abs/2108.11514) Max W.Y. Lam, Jun Wang, **Rongjie Huang**, Dan Su, Dong Yu. **Preprint**
 
 
-## 2020
+# 2020
 - [A RD-T Network for Hand Gesture Recognition Based on Millimeter-Wave Sensor.]() **Rongjie Huang**, Zecheng Li, Song Wang, Ronghao Wang, Junjie Li, Zhiwei Xu. **ICSIP 2020**
 
 - [Image Formation Theory and Experiment Based on ML Criterion and EM Algorithm.]() **Rongjie Huang**, Song Wang, Hangfang Zhao. **COA 2021**
