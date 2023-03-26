@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-## Generative AI for audio
+## Generative AI for Speech, Sing, and Audio
 - Text-to-Speech Synthesis: **GenerSpeech (NeurIPS 2022)** for domain-generalizable text-to-speech, **FastDiff (IJCAI 2022) / ProDiff (ACM-MM 2022a)** for diffusion text-to-speech
 - Singing Voice Synthesis: **SingGAN (ACM-MM 2022b) / Multi-Singer (ACM-MM 2021)**
 
@@ -9,7 +9,7 @@
 
 <!-- His recent works include **TranSpeech (ICLR 2023)** for direct speech-to-speech translation, **GenerSpeech (NeurIPS 2022)** for domain-generalizable text-to-speech, **FastDiff (IJCAI 2022) / ProDiff (ACM-MM 2022a)** for diffusion text-to-speech, and **SingGAN (ACM-MM 2022b) / Multi-Singer (ACM-MM 2021)** for singing voice synthesis. Most of the research has code open-sourced at [GitHub](https://github.com/Rongjiehuang).  -->
 
-## Spoken language understanding
+## Spoken language processing
 - Speech-to-speech Translation: **TranSpeech (ICLR 2023) / AV-TranSpeech**
 - Speech-to-SQL Parsing: **Wav2SQL**
 - Self-supervised Learning: **Prosody-MAE**
@@ -21,6 +21,8 @@
 
 - [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models.]() **Rongjie Huang**, Jiawei Huang, Dongchao Yang, Yi Ren, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao. **Arxiv**
 
+- **Academic / Industry Impact**: Our work are promoted by different media and forums, such as [Heart of Machine](https://mp.weixin.qq.com/s/fphIJ13RWRIgGNTwYO06bw), [ByteDance](https://zhuanlan.zhihu.com/p/605228032), and [Twitter](https://twitter.com/_akhaliq/status/1619589070329348096). Code is coming!
+
 </div>
 </div>
 
@@ -29,7 +31,7 @@
 
 - [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation.](https://arxiv.org/abs/2205.12523) **Rongjie Huang**, Jinglin Liu, Huadai Liu, Yi Ren, Lichao Zhang, Jinzheng He, and Zhou Zhao. **ICLR, 2023. Kigali, Rwanda** 
 
-Code will be released soon.
+Media coverage: [PaperWeekly](https://mp.weixin.qq.com/s/Mp181vfq24m1HqgJqbMnlg). Code released: [![](https://img.shields.io/github/stars/Rongjiehuang/TranSpeech?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/TranSpeech). 
 
 </div>
 </div>
@@ -43,7 +45,7 @@ Code will be released soon.
 
 - [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech.](https://arxiv.org/abs/2205.07211) **Rongjie Huang**, Yi Ren, Jinglin Liu, Chenye Cui, and Zhou Zhao. **NeurIPS, 2022. New Orleans, USA**
 
-Our work are promoted by different media and forums, such as [PaperWeekly](https://mp.weixin.qq.com/s/Mp181vfq24m1HqgJqbMnlg), [Speech Home](https://mp.weixin.qq.com/s/EXdfb0DUTbB6OHbjDS2u7g). We have code released at [![](https://img.shields.io/github/stars/Rongjiehuang/GenerSpeech?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/GenerSpeech). 
+Media coverage: [PaperWeekly](https://mp.weixin.qq.com/s/Mp181vfq24m1HqgJqbMnlg), [Speech Home](https://mp.weixin.qq.com/s/EXdfb0DUTbB6OHbjDS2u7g). Code released: [![](https://img.shields.io/github/stars/Rongjiehuang/GenerSpeech?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/GenerSpeech). 
 
 
 </div>
@@ -101,7 +103,7 @@ Our work are promoted by different media and forums, such as [PaperWeekly](https
 - [Bilateral Denoising Diffusion Models.](https://arxiv.org/abs/2108.11514) Max W.Y. Lam, Jun Wang, **Rongjie Huang**, Dan Su, Dong Yu. **Preprint**
 
 
-# 2020
+# 2020 and Prior
 - [A RD-T Network for Hand Gesture Recognition Based on Millimeter-Wave Sensor.]() **Rongjie Huang**, Zecheng Li, Song Wang, Ronghao Wang, Junjie Li, Zhiwei Xu. **ICSIP 2020**
 
 - [Image Formation Theory and Experiment Based on ML Criterion and EM Algorithm.]() **Rongjie Huang**, Song Wang, Hangfang Zhao. **COA 2021**
