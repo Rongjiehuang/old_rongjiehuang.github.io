@@ -2,10 +2,8 @@
 # 📝 Publications 
 ## Generative AI for Speech, Sing, and Audio
 - Text-to-Speech Synthesis: **GenerSpeech (NeurIPS 2022)** for domain-generalizable text-to-speech, **FastDiff (IJCAI 2022) / ProDiff (ACM-MM 2022a)** for diffusion text-to-speech
+- Text-to-Audio Synthesis: **Make-An-Audio (ICML 2023)**
 - Singing Voice Synthesis: **SingGAN (ACM-MM 2022b) / Multi-Singer (ACM-MM 2021)**
-
-- General Audio Synthesis: **Make-An-Audio**
-
 
 <!-- His recent works include **TranSpeech (ICLR 2023)** for direct speech-to-speech translation, **GenerSpeech (NeurIPS 2022)** for domain-generalizable text-to-speech, **FastDiff (IJCAI 2022) / ProDiff (ACM-MM 2022a)** for diffusion text-to-speech, and **SingGAN (ACM-MM 2022b) / Multi-Singer (ACM-MM 2021)** for singing voice synthesis. Most of the research has code open-sourced at [GitHub](https://github.com/Rongjiehuang).  -->
 
@@ -16,10 +14,10 @@
 
 # 2023
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/make-an-audio-arch.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/make-an-audio-arch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models.]() **Rongjie Huang**, Jiawei Huang, Dongchao Yang, Yi Ren, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao. **Arxiv**
+- [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models.]() **Rongjie Huang**, Jiawei Huang, Dongchao Yang, Yi Ren, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao. **ICML, 2023. Hawaii, USA**
 
 - **Academic / Industry Impact**: Our work are promoted by different media and forums, such as [Heart of Machine](https://mp.weixin.qq.com/s/fphIJ13RWRIgGNTwYO06bw), [ByteDance](https://zhuanlan.zhihu.com/p/605228032), and [Twitter](https://twitter.com/_akhaliq/status/1619589070329348096). Code is coming!
 
