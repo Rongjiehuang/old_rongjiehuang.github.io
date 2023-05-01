@@ -14,6 +14,16 @@
 
 # 2023
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/make-an-audio-arch.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head.](https://arxiv.org/abs/2304.12995) **Rongjie Huang**, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe. **Arxiv, 2023**
+
+- **Academic / Industry Impact**: Our work are promoted by different media and forums, such as [Heart of Machine](https://mp.weixin.qq.com/s/pesuhzQ3cfaz-bhxMew46g), [New Intelligence](https://mp.weixin.qq.com/s/BXLxD0bboWS96iEHGZ9xTQ), and [Twitter](https://twitter.com/_akhaliq/status/1619589070329348096). Code is coming!
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/make-an-audio-arch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
