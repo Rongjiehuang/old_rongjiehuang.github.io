@@ -14,6 +14,15 @@
 
 # 2023
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/av-transpeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation.]() **Rongjie Huang**, Huadai Liu, Xize Cheng, Yi Ren, Linjun Li, Zhenhui Ye, Jinzheng He, Lichao Zhang, Jinglin Liu, Xiang Yin and Zhou Zhao. **ACL, 2023** 
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/make-an-audio-arch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,6 +52,10 @@ Media coverage: [PaperWeekly](https://mp.weixin.qq.com/s/Mp181vfq24m1HqgJqbMnlg)
 
 </div>
 </div>
+
+- [Prosody-TTS: Self-Supervised Prosody Pretraining with Latent Diffusion For Text-to-Speech.]() **Rongjie Huang**, Chunlei Zhang, Yi Ren, Zhou Zhao, Dong Yu. **ACL, 2023**
+
+- [FastDiff 2: Dually Incorporating GANs into Diffusion Models for High-Quality Speech Synthesis]() **Rongjie Huang**, Yi Ren, Jinglin Liu, Luping Liu, Zhou Zhao. **ACL, 2023**
 
 - [InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt.]() Dongchao Yang, Songxiang Liu, **Rongjie Huang**, Guangzhi Lei, Chao Weng, Helen Meng, Dong Yu. **Arxiv**
 
