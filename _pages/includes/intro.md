@@ -4,6 +4,8 @@ My research interest includes generative AI for speech/sing/audio and spoken lan
 
 **I am actively looking for academic collaboration, feel free to drop me an email.**
 
+**I am now looking for full-time and internship jobs, or PhD positions. If you have openings, please contact me and I really appreciate it.**
+
 Prior to that, I obtained Bachelor’s degree at Zhejiang University, supervised by [Prof. Zhi-Wei Hsu](https://person.zju.edu.cn/0014142) and [Prof. Hang-Fang Zhao](https://person.zju.edu.cn/0012062), where I minored in the intensive training program of innovation and entrepreneurship[(ITP)](http://itper.org/index.php/Index).
 
 <!-- Rongjie aims at developing data-driven methods to study the interconnected world and investigates scientific and industrial problems. His research focuses on **multimodal (speech/sing/audio) synthesis, speech translation, and self-supervised learning**.  -->
