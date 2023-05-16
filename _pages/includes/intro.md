@@ -12,7 +12,7 @@ Prior to that, I obtained Bachelor’s degree at Zhejiang University, supervised
 
 
 # 🔥 News
-- *2023.05*: 8 papers are accepted by ACL 2023! Thanks to my co-authors!
+- *2023.05*: 8 papers are accepted by ACL 2023 (main conference and findings)! Thanks to my co-authors!
 - *2023.04*: [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) and [AcademiCodec](https://github.com/yangdongchao/AcademiCodec) come out! 
 - *2023.04*: One papers is accepted by ICML 2023!
 - *2023.02*: Make-An-Audio comes out! Media coverage: [Heart of Machine](https://mp.weixin.qq.com/s/fphIJ13RWRIgGNTwYO06bw), [ByteDance](https://zhuanlan.zhihu.com/p/605228032), and [Twitter](https://twitter.com/_akhaliq/status/1619589070329348096).

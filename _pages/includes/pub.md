@@ -39,6 +39,9 @@
 
 Media coverage: [PaperWeekly](https://mp.weixin.qq.com/s/Mp181vfq24m1HqgJqbMnlg). Code released: [![](https://img.shields.io/github/stars/Rongjiehuang/TranSpeech?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/TranSpeech). 
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/generspeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
