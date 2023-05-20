@@ -1,4 +1,6 @@
 # Selected Honors Awarded
+- ICML Grant Award
+- ICLR Grant Award
 - Outstanding Reviewers, ICML'22. Top 10%.
 - Excellent Graduate, Zhejiang Province (2021). 
 - National Scholarships (2020, 2021, 2022). Top 1% in Zhejiang University.
