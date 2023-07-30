@@ -18,7 +18,7 @@
 
 - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head.](https://arxiv.org/abs/2304.12995) **Rongjie Huang**, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe. **Arxiv, 2023**
 
-- **Academic / Industry Impact**: Our work are promoted by different media and forums, such as [Heart of Machine](https://mp.weixin.qq.com/s/pesuhzQ3cfaz-bhxMew46g), [New Intelligence](https://mp.weixin.qq.com/s/BXLxD0bboWS96iEHGZ9xTQ), and [Twitter](https://twitter.com/_akhaliq/status/1619589070329348096). We have code released at [![](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social&label=Code+Stars)](https://github.com/AIGC-Audio/AudioGPT) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/AIGC-Audio/AudioGPT), which is a Trending Project at both Github and Paperwithcode.
+- **Academic / Industry Impact**: Our work are promoted by different media and forums, such as [Heart of Machine](https://mp.weixin.qq.com/s/pesuhzQ3cfaz-bhxMew46g), [New Intelligence](https://mp.weixin.qq.com/s/BXLxD0bboWS96iEHGZ9xTQ), and [Twitter](https://twitter.com/_akhaliq/status/1619589070329348096). We have code released at [![](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social&label=Code+Stars)](https://github.com/AIGC-Audio/AudioGPT) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/AIGC-Audio/AudioGPT).
 
 </div>
 </div>
@@ -38,7 +38,7 @@
 
 - [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation.](https://arxiv.org/abs/2205.12523) **Rongjie Huang**, Jinglin Liu, Huadai Liu, Yi Ren, Lichao Zhang, Jinzheng He, and Zhou Zhao. **ICLR, 2023. Kigali, Rwanda** 
 
-One of our **continuous efforts to reduce communication barrier**, and we have several follow-up works: **Audio-Visual Speech-to-Text translation (MixSpeech), Audio-Visual Speech-to-Speech translation (AV-TranSpeech), Multi-modal Speech-to-Speech translation, Zero-shot Visual Speech Translation**. More are coming! Code released: [![](https://img.shields.io/github/stars/Rongjiehuang/TranSpeech?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/TranSpeech). 
+One of our **continuous efforts to reduce communication barrier**, and we have follow-up works: **Audio-Visual Speech-to-Text translation [(MixSpeech)](https://arxiv.org/abs/2303.05309), Audio-Visual Speech-to-Speech translation [(AV-TranSpeech)](https://arxiv.org/abs/2305.15403), Multi-modal Speech-to-Speech translation, Zero-shot Visual Speech Translation**. More are coming! Code released: [![](https://img.shields.io/github/stars/Rongjiehuang/TranSpeech?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/TranSpeech). 
 
 </div>
 </div>
@@ -59,7 +59,7 @@ The first **zero-shot** TTS generalizable to unseen speaker, emotion, and prosod
 
 - [FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis.](https://arxiv.org/abs/2204.09934) **Rongjie Huang**, Max W.Y. Lam, Jun Wang, Dan Su, Dong Yu, Yi Ren, and Zhou Zhao. **IJCAI, 2022(oral). Vienna, Austria** 
 
-We release a **diffusion text-to-speech pipeline** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Rongjiehuang/ProDiff) using **ProDiff** [![](https://img.shields.io/github/stars/Rongjiehuang/prodiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/prodiff) and **FastDiff** [![](https://img.shields.io/github/stars/Rongjiehuang/FastDiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/FastDiff). Our work are promoted by different media and forums, such as [Tencent AI Lab](https://mp.weixin.qq.com/s/GmLzLw3GnDsK0OuUpgEySQ), [Speech Home](https://mp.weixin.qq.com/s/BWf_uZdG0icWk5odChxhuA), and [Twitter](https://twitter.com/_akhaliq/status/1517308526691065856), which is a [Trending Project at both Github and Paperwithcode.](https://twitter.com/pythontrending/status/1528332486257819651) 
+One of our **continuous efforts in generative modeling**, and we have follow-up works: **FastDiff 2, ProDiff**. We release a **diffusion text-to-speech pipeline** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Rongjiehuang/ProDiff) using **ProDiff** [![](https://img.shields.io/github/stars/Rongjiehuang/prodiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/prodiff) and **FastDiff** [![](https://img.shields.io/github/stars/Rongjiehuang/FastDiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/FastDiff). Our work are promoted by different media and forums, such as [Tencent AI Lab](https://mp.weixin.qq.com/s/GmLzLw3GnDsK0OuUpgEySQ), [Speech Home](https://mp.weixin.qq.com/s/BWf_uZdG0icWk5odChxhuA), and [Twitter](https://twitter.com/_akhaliq/status/1517308526691065856), which is a [Trending Project at both Github and Paperwithcode.](https://twitter.com/pythontrending/status/1528332486257819651) 
 
 </div>
 </div>
