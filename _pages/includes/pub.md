@@ -81,6 +81,8 @@ One of our **continuous efforts in generative modeling**, and we have follow-up 
 
 - [MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition.]() Xize Cheng*, Linjun Li, Tao Jin, **Rongjie Huang**, Wang Lin, Zehan Wang, Huangdai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao. **ICCV, 2023** 
 
+- [UniSinger: Unified End-to-End Singing Voice Synthesis With Cross-Modality Information Matching.]() Zhiqing Hong, Chenye Cui, **Rongjie Huang**, Lichao Zhang, Jinglin Liu, Jinzheng He, Zhou Zhao. **ACM MM, 2023**
+
 - [AlignSTS: Speech-to-Singing Conversion via Cross-Modal Alignment.]() Ruiqi Li, **Rongjie Huang**, Lichao Zhang, Jinglin Liu, Zhou Zhao. **ACL, 2023**
 
 - [RMSSinger: Realistic-Music-Score based Singing Voice Synthesis.]() Jinzheng He, Jinglin Liu, Zhenhui Ye, **Rongjie Huang**, Chenye Cui, Huadai Liu, Zhou Zhao. **ACL, 2023**
