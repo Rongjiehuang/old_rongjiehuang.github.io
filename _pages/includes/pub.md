@@ -1,7 +1,7 @@
 
 # 📝 Representative Publications 
 ## Generative AI for Speech, Sing, and Audio
-- Spoken Large Language Model: **AudioGPT**, **Make-A-Voice**, **HiFi-Codec** (and we are now building **AudioGPT 2**!)
+- Spoken Large Language Model: **AudioGPT**, **Make-A-Voice**, **HiFi-Codec**
 - Text-to-Audio Synthesis: **Make-An-Audio (ICML 2023)**
 - Text-to-Speech Synthesis: **GenerSpeech (NeurIPS 2022)** for zero-shot text-to-speech, **FastDiff (IJCAI 2022) / ProDiff (ACM-MM 2022a)** for diffusion text-to-speech
 - Singing Voice Synthesis: **SingGAN (ACM-MM 2022b) / Multi-Singer (ACM-MM 2021)**
@@ -38,7 +38,7 @@
 
 - [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation.](https://arxiv.org/abs/2205.12523) **Rongjie Huang**, Jinglin Liu, Huadai Liu, Yi Ren, Lichao Zhang, Jinzheng He, and Zhou Zhao. **ICLR, 2023. Kigali, Rwanda** 
 
-One of our **continuous efforts to reduce communication barrier**, and we have follow-up works: **Audio-Visual Speech-to-Text translation [(MixSpeech)](https://arxiv.org/abs/2303.05309), Audio-Visual Speech-to-Speech translation [(AV-TranSpeech)](https://arxiv.org/abs/2305.15403), Multi-modal Speech-to-Speech translation, Zero-shot Visual Speech Translation**. More are coming! Code released: [![](https://img.shields.io/github/stars/Rongjiehuang/TranSpeech?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/TranSpeech). 
+One of our **continuous efforts to reduce communication barrier**, and we have follow-up works: **Audio-Visual S2T [(MixSpeech, ICCV 2023)](https://arxiv.org/abs/2303.05309), Audio-Visual S2ST [(AV-TranSpeech, ACL 2023)](https://arxiv.org/abs/2305.15403), Multi-modal S2ST, Style-aware S2ST,  Zero-shot S2ST**. Code released: [![](https://img.shields.io/github/stars/Rongjiehuang/TranSpeech?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/TranSpeech). 
 
 </div>
 </div>
@@ -73,20 +73,33 @@ One of our **continuous efforts in generative modeling**, and we have follow-up 
 
 - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head.](https://arxiv.org/abs/2304.12995) **Rongjie Huang**, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe. **Arxiv, 2023**
 
+- [Make-An-Audio 2: Improving Text-to-Audio with Dual Text Information Representation.]() Jiawei Huang, Yi Ren, **Rongjie Huang**, Dongchao Yang, Zhenhui Ye, Chen Zhang, Jinglin Liu, Xiang Yin, Zejun Ma, Zhou Zhao. **Arxiv, 2023**
+
 - [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation.](https://arxiv.org/abs/2205.12523) **Rongjie Huang**, Jinglin Liu, Huadai Liu, Yi Ren, Lichao Zhang, Jinzheng He, and Zhou Zhao. **ICLR, 2023. Kigali, Rwanda** 
 
 - [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation.]() **Rongjie Huang**, Huadai Liu, Xize Cheng, Yi Ren, Linjun Li, Zhenhui Ye, Jinzheng He, Lichao Zhang, Jinglin Liu, Xiang Yin and Zhou Zhao. **ACL, 2023** 
 
+- [MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition.]() Xize Cheng*, Linjun Li, Tao Jin, **Rongjie Huang**, Wang Lin, Zehan Wang, Huangdai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao. **ICCV, 2023** 
+
 - [AlignSTS: Speech-to-Singing Conversion via Cross-Modal Alignment.]() Ruiqi Li, **Rongjie Huang**, Lichao Zhang, Jinglin Liu, Zhou Zhao. **ACL, 2023**
 
-- [InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt.]() Dongchao Yang, Songxiang Liu, **Rongjie Huang**, Guangzhi Lei, Chao Weng, Helen Meng, Dong Yu. **Arxiv**
+- [RMSSinger: Realistic-Music-Score based Singing Voice Synthesis.]() Jinzheng He, Jinglin Liu, Zhenhui Ye, **Rongjie Huang**, Chenye Cui, Huadai Liu, Zhou Zhao. **ACL, 2023**
 
+- [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models.]() Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, **Rongjie Huang**, Yi Ren, Zhou Zhao. **ACL, 2023**
+
+- [Contrastive Token-Wise Meta-Learning for Unseen Performer Visual Temporal-Aligned Translation.]() Linjun Li, Tao Jin, Xize Cheng, Ye Wang, Wang Lin, **Rongjie Huang**, Zhou Zhao
+
+- [InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt.]() Dongchao Yang, Songxiang Liu, **Rongjie Huang**, Guangzhi Lei, Chao Weng, Helen Meng, Dong Yu. **Arxiv**
 
 - [HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec.]() Dongchao Yang, Songxiang Liu, **Rongjie Huang**, Jinchuan Tian, Chao Weng, Yuexian Zou. **Arxiv**
 
 - [GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation.]() Zhenhui Ye, Jinzheng He, Ziyue Jiang, **Rongjie Huang**, Jiawei Huang, Jinglin Liu, Yi Ren, Xiang Yin, Zejun Ma, Zhou Zhao. **Arxiv**
 
-- [MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition.]() Xize Cheng, Linjun Li, Tao Jin, **Rongjie Huang**, Wang Lin, Zehan Wang, Huangdai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao. **Arxiv**
+- [Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias.]() Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, Shengpeng Ji, **Rongjie Huang**, Chunfeng Wang, Xiang Yin, Zejun Ma, Zhou Zhao. **Arxiv**
+
+- [Detector Guidance for Multi-Object Text-to-Image Generation.]() Luping Liu, Zijian Zhang, Yi Ren, **Rongjie Huang**, Xiang Yin, Zhou Zhao. **Arxiv**
+
+- [ViT-TTS: Visual Text-to-Speech with Scalable Diffusion Transformer.]() Huadai Liu, **Rongjie Huang**, Xuan Lin, Wenqiang Xu, Maozong Zheng, Hong Chen, Jinzheng He, Zhou Zhao. **Arxiv**
 
 # 2022
 
