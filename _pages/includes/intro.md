@@ -13,9 +13,9 @@ Prior to that, I obtained Bachelor’s degree at Zhejiang University, where I mi
 # 🔥 News
 - *2023.10*: I am awarded ByteDance Scholarship (13 students, per year), and Chu Kochen Presidential Scholarship (the highest honor at Zhejiang University)!
 - *2023.10*: [UniAudio](https://twitter.com/_akhaliq/status/1710112638422642732) comes out! 
-- *2023.09*: One papers is accepted by EMNLP 2023!
-- *2023.07*: One papers is accepted by ACM-MM 2023!
-- *2023.06*: One papers is accepted by ICCV 2023!
+- *2023.09*: One paper is accepted by EMNLP 2023!
+- *2023.07*: One paper is accepted by ACM-MM 2023!
+- *2023.06*: One paper is accepted by ICCV 2023!
 - *2023.05*: 8 papers are accepted by ACL 2023 (main conference and findings)! Thanks to my co-authors!
 - *2023.04*: AudioGPT [![](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social&label=Code+Stars)](https://github.com/AIGC-Audio/AudioGPT) and HiFi-Codec [![](https://img.shields.io/github/stars/yangdongchao/AcademiCodec?style=social&label=Code+Stars)](https://github.com/yangdongchao/AcademiCodec) come out! 
 - *2023.04*: One papers is accepted by ICML 2023!
