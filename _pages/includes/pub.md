@@ -1,7 +1,7 @@
 
 # 📝 Representative Publications 
 ## Generative AI for Speech, Sing, and Audio
-- Spoken Large Language Model: **AudioGPT**, **Make-A-Voice**, **HiFi-Codec**
+- Spoken Large Language Model: **AudioGPT**, **UniAudio**, **Make-A-Voice**, **HiFi-Codec**
 - Text-to-Audio Synthesis: **Make-An-Audio (ICML 2023)**
 - Text-to-Speech Synthesis: **GenerSpeech (NeurIPS 2022)** for zero-shot text-to-speech, **FastDiff (IJCAI 2022) / ProDiff (ACM-MM 2022a)** for diffusion text-to-speech
 - Singing Voice Synthesis: **SingGAN (ACM-MM 2022b) / Multi-Singer (ACM-MM 2021)**
@@ -72,6 +72,8 @@ One of our **continuous efforts in generative modeling**, and we have follow-up 
 - [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models.]() **Rongjie Huang**, Jiawei Huang, Dongchao Yang, Yi Ren, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao. **ICML, 2023. Hawaii, USA**
 
 - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head.](https://arxiv.org/abs/2304.12995) **Rongjie Huang**, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe. **Arxiv, 2023**
+
+- [UniAudio: An Audio Foundation Model Toward Universal Audio Generation.](https://arxiv.org/abs/2310.00704) Dongchao Yang, Jinchuan Tian, Xu Tan, **Rongjie Huang**, Songxiang Liu, Xuankai Chang, Jiatong Shi, Sheng Zhao, Jiang Bian, Xixin Wu, Zhou Zhao, Shinji Watanabe, Helen Meng. **Arxiv, 2023**
 
 - [Make-An-Audio 2: Improving Text-to-Audio with Dual Text Information Representation.]() Jiawei Huang, Yi Ren, **Rongjie Huang**, Dongchao Yang, Zhenhui Ye, Chen Zhang, Jinglin Liu, Xiang Yin, Zejun Ma, Zhou Zhao. **Arxiv, 2023**
 
