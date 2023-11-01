@@ -1,11 +1,10 @@
 # Selected Honors Awarded
 - Chu Kochen Presidential Scholarship (2023), highest honor at Zhejiang University
-- ByteDance Scholarship
-- ICML Grant Award
-- ICLR Grant Award
+- ByteDance Scholar Fellowship
+- ICML/ICLR Grant Award
 - Outstanding Reviewers, ICML'22. Top 10%.
-- National Scholarships (2022, 2023, Grauate student). Top 0.1% in Zhejiang University.
-- National Scholarships (2020, 2021, Undergrauate student). Top 0.1% in Zhejiang University.
+- National Scholarship (2022, 2023, Grauate student). Top 0.1% in Zhejiang University.
+- National Scholarship (2020, 2021, Undergrauate student). Top 0.1% in Zhejiang University.
 - Excellent Graduate, Zhejiang Province (2021). 
 - Chu Kochen Presidential Scholarship Finalist (2021).
 - First Prize in American Mathematical Modeling Competition (2020). Top 7% worldwide.
