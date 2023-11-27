@@ -11,6 +11,7 @@ Prior to that, I obtained Bachelor’s degree at Zhejiang University, where I mi
 
 
 # 🔥 News
+- *2023.11*: One paper is accepted by AAAI 2024 demo!
 - *2023.10*: I am awarded ByteDance Scholar Fellowship (13 students, per year), and Chu Kochen Presidential Scholarship (the highest honor at Zhejiang University)!
 - *2023.10*: [UniAudio](https://twitter.com/_akhaliq/status/1710112638422642732) comes out! 
 - *2023.09*: One paper is accepted by EMNLP 2023!

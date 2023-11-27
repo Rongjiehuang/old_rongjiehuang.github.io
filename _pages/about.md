@@ -23,6 +23,8 @@ redirect_from:
 
 {% include_relative includes/award.md %}
 
+{% include_relative includes/edu.md %}
+
 {% include_relative includes/work.md %}
 
 <br />

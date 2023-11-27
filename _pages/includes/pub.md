@@ -66,11 +66,14 @@ One of our **continuous efforts in generative modeling**, and we have follow-up 
 # Full Publication List
 * denotes co-first authors, # denotes (co-)supervised students
 
+# 2024
+
+- [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head.](https://arxiv.org/abs/2304.12995) **Rongjie Huang**, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe. **AAAI demo, 2024**
+
+
 # 2023
 
 - [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models.]() **Rongjie Huang**, Jiawei Huang, Dongchao Yang, Yi Ren, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao. **ICML, 2023. Hawaii, USA**
-
-- [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head.](https://arxiv.org/abs/2304.12995) **Rongjie Huang**, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe. **Arxiv, 2023**
 
 - [UniAudio: An Audio Foundation Model Toward Universal Audio Generation.](https://arxiv.org/abs/2310.00704) Dongchao Yang, Jinchuan Tian, Xu Tan, **Rongjie Huang**, Songxiang Liu, Xuankai Chang, Jiatong Shi, Sheng Zhao, Jiang Bian, Xixin Wu, Zhou Zhao, Shinji Watanabe, Helen Meng. **Arxiv, 2023**
 
