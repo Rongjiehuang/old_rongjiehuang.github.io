@@ -1,4 +1,4 @@
-**Rongjie Huang (黄融杰)** graduated from College of Computer Science and Software, [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Zhou Zhao](https://person.zju.edu.cn/zhaozhou). I obtained Bachelor’s degree at Zhejiang University.
+**Rongjie Huang (黄融杰)** did my Graduate study at College of Computer Science and Software, [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Zhou Zhao](https://person.zju.edu.cn/zhaozhou). I also obtained Bachelor’s degree at Zhejiang University.
 
 During my graduate study, I was lucky to collaborate with the CMU Speech Team led by Prof. [Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ), and Audio Research Team at Zhejiang University. I was grateful to collaborate with researchers from TikTok ([Yi Ren](https://github.com/RayeRen) and [Jinglin Liu](https://github.com/MoonInTheRiver)), and from Tencent Seattle Lab ([Chunlei Zhang](https://scholar.google.com/citations?user=NCKZGb0AAAAJ) and [Dong Yu](https://scholar.google.com/citations?user=tMY31_gAAAAJ)).
 
