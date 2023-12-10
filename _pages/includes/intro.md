@@ -1,18 +1,15 @@
-**Rongjie Huang (黄融杰)** is a graduate student **(expected to graduate at March 2024)** in the College of Computer Science and Software at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Zhou Zhao](https://person.zju.edu.cn/zhaozhou). 
+**Rongjie Huang (黄融杰)** graduated from College of Computer Science and Software, [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Zhou Zhao](https://person.zju.edu.cn/zhaozhou). I obtained Bachelor’s degree at Zhejiang University.
 
-During my graduate study, I was lucky to collaborate with the CMU Speech Team led by Prof. [Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ), and Audio Research Team at Zhejiang University. I collaborated with several researchers in ByteDance ([Yi Ren](https://github.com/RayeRen) and [Jinglin Liu](https://github.com/MoonInTheRiver)), and Tencent AI Lab ([Chunlei Zhang](https://scholar.google.com/citations?user=NCKZGb0AAAAJ) and [Dong Yu](https://scholar.google.com/citations?user=tMY31_gAAAAJ)).
+During my graduate study, I was lucky to collaborate with the CMU Speech Team led by Prof. [Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ), and Audio Research Team at Zhejiang University. I was grateful to collaborate with researchers from TikTok ([Yi Ren](https://github.com/RayeRen) and [Jinglin Liu](https://github.com/MoonInTheRiver)), and from Tencent Seattle Lab ([Chunlei Zhang](https://scholar.google.com/citations?user=NCKZGb0AAAAJ) and [Dong Yu](https://scholar.google.com/citations?user=tMY31_gAAAAJ)).
 
-My research interest includes generative AI for speech/sing/audio and audio-visual language processing. I have published several **first-author papers** at the top international AI conferences such as **NeurIPS/ICLR/ICML/ACL/IJCAI**.
+My research interest includes **Multi-Modal Generative AI, Multi-Modal Language Processing, and AI4Science**. I have published **first-author papers** at the top international AI conferences such as **NeurIPS/ICLR/ICML/ACL/IJCAI**.
 
 **I am actively looking for academic collaboration, feel free to drop me an email.**
 
 
-Prior to that, I obtained Bachelor’s degree at Zhejiang University, where I minored in the intensive training program of innovation and entrepreneurship[(ITP)](http://itper.org/index.php/Index).
-
-
 # 🔥 News
-- *2023.11*: One paper is accepted by AAAI 2024 demo!
-- *2023.10*: I am awarded ByteDance Scholar Fellowship (13 students, per year), and Chu Kochen Presidential Scholarship (the highest honor at Zhejiang University)!
+- *2023.11*: 2 papers are accepted by AAAI 2024 main / AAAI 2024 demo!
+- *2023.10*: I am awarded ByteDance Scholar Fellowship, and Chu Kochen Presidential Scholarship!
 - *2023.10*: [UniAudio](https://twitter.com/_akhaliq/status/1710112638422642732) comes out! 
 - *2023.09*: One paper is accepted by EMNLP 2023!
 - *2023.07*: One paper is accepted by ACM-MM 2023!

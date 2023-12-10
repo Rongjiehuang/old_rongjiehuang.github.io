@@ -1,6 +1,6 @@
 # Selected Honors Awarded
 - Chu Kochen Presidential Scholarship (2023), highest honor at Zhejiang University
-- ByteDance Scholar Fellowship (100k RMB Bonus)
+- ByteDance Scholar Fellowship (100k RMB Bonus), 10 students per year
 - ICML/ICLR Grant Award
 - Outstanding Reviewers, ICML'22. Top 10%.
 - National Scholarship (2022, 2023, Grauate student). Top 1%.

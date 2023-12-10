@@ -1,13 +1,13 @@
 
 # 📝 Representative Publications 
-## Generative AI for Speech, Sing, and Audio
-- Spoken Large Language Model: **AudioGPT**, **UniAudio**, **Make-A-Voice**, **Mega-TTS**, **HiFi-Codec**
+## Multi-modal Generative AI
+- Spoken Large Language Model: **AudioGPT (AAAI demo 2024)**, **UniAudio**, **Make-A-Voice**, **Mega-TTS**, **HiFi-Codec**
 - Text-to-Audio Synthesis: **Make-An-Audio (ICML 2023)**
 - Text-to-Speech Synthesis: **GenerSpeech (NeurIPS 2022)** for zero-shot text-to-speech, **FastDiff (IJCAI 2022) / ProDiff (ACM-MM 2022a)** for diffusion text-to-speech
 - Singing Voice Synthesis: **SingGAN (ACM-MM 2022b) / Multi-Singer (ACM-MM 2021)**
 
 
-## Audio-Visual Language Processing
+## Multi-modal Language Processing
 - Audio-Visual Speech-to-Speech Translation: **TranSpeech (ICLR 2023) / AV-TranSpeech (ACL 2023)**
 - Self-Supervised Learning: **Prosody-MAE (ACL 2023)**
 
@@ -64,11 +64,13 @@ One of our **continuous efforts in generative modeling**, and we have follow-up 
 </div>
 
 # Full Publication List
-* denotes co-first authors, # denotes (co-)supervised students
+* denotes co-first authors, # denotes co-supervised
 
 # 2024
 
 - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head.](https://arxiv.org/abs/2304.12995) **Rongjie Huang**, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe. **AAAI demo, 2024**
+
+- [StyleSinger: Style Transfer for Out-Of-Domain Singing Voice Synthesis.]() Yu Zhang#, **Rongjie Huang**, Ruiqi Li, Jinzheng He, Yan Xia, Feiyang Chen, Xinyu Duan, Baoxing Huai, Zhou Zhao. **AAAI, 2024.**
 
 
 # 2023
@@ -85,9 +87,9 @@ One of our **continuous efforts in generative modeling**, and we have follow-up 
 
 - [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation.]() **Rongjie Huang**, Huadai Liu, Xize Cheng, Yi Ren, Linjun Li, Zhenhui Ye, Jinzheng He, Lichao Zhang, Jinglin Liu, Xiang Yin and Zhou Zhao. **ACL, 2023** 
 
-- [MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition.]() Xize Cheng*, Linjun Li*, Tao Jin*, **Rongjie Huang\***, Wang Lin, Zehan Wang, Huangdai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao. **ICCV, 2023** 
+- [MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition.]() Xize Cheng*, Linjun Li*, Tao Jin*, **Rongjie Huang***, Wang Lin, Zehan Wang, Huangdai Liu, Ye Wang, Aoxiong Yin, Zhou Zhao. **ICCV, 2023** 
 
-- [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training.]() Zhenhui Ye*, **Rongjie Huang\***, Yi Ren, Ziyue Jiang, Jinglin Liu, Jinzheng He, Xiang Yin and Zhou Zhao. **ACL, 2023** 
+- [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training.]() Zhenhui Ye*, **Rongjie Huang**, Yi Ren, Ziyue Jiang, Jinglin Liu, Jinzheng He, Xiang Yin and Zhou Zhao. **ACL, 2023** 
 
 - [UniSinger: Unified End-to-End Singing Voice Synthesis With Cross-Modality Information Matching.]() Zhiqing Hong#, Chenye Cui, **Rongjie Huang**, Lichao Zhang, Jinglin Liu, Jinzheng He, Zhou Zhao. **ACM MM, 2023**
 
