@@ -1,10 +1,17 @@
-**Rongjie Huang (黄融杰)** did my Graduate study at College of Computer Science and Software, [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Zhou Zhao](https://person.zju.edu.cn/zhaozhou). I also obtained Bachelor’s degree at Zhejiang University.
+**Rongjie Huang (黄融杰)** did my Graduate study at College of Computer Science and Software, [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Zhou Zhao](https://person.zju.edu.cn/zhaozhou). I also obtained Bachelor’s degree at Zhejiang University. During my graduate study, I was lucky to collaborate with the CMU Speech Team led by Prof. [Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ), and Audio Research Team at Zhejiang University. I was grateful to intern or collaborate at TikTok, Shanghai AI Lab (OpenGV Lab), Tencent Seattle Lab, Alibaba Damo Academic, with [Yi Ren](https://github.com/RayeRen), [Jinglin Liu](https://github.com/MoonInTheRiver)), [Chunlei Zhang](https://scholar.google.com/citations?user=NCKZGb0AAAAJ) and [Dong Yu](https://scholar.google.com/citations?user=tMY31_gAAAAJ)).
 
-During my graduate study, I was lucky to collaborate with the CMU Speech Team led by Prof. [Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ), and Audio Research Team at Zhejiang University. I was grateful to collaborate with researchers from TikTok ([Yi Ren](https://github.com/RayeRen) and [Jinglin Liu](https://github.com/MoonInTheRiver)), and from Tencent Seattle Lab ([Chunlei Zhang](https://scholar.google.com/citations?user=NCKZGb0AAAAJ) and [Dong Yu](https://scholar.google.com/citations?user=tMY31_gAAAAJ)).
+My research interest includes **Multi-Modal Generative AI, Multi-Modal Language Processing, and AI4Science**. I have published **first-author papers** at the top international AI conferences such as **NeurIPS/ICLR/ICML/ACL/IJCAI**. I developed a few well-known Speech/NLP algorithms including:
+- AudioGPT, UniAudio: Multitask, Multilingual LLMs
+- Make-An-Audio, GenerSpeech: Zero-shot text-guided synthesis
+- FastDiff 1/2, ProDiff: AIGC diffusion models
+- TranSpeech, and AV-TranSpeech: Multimodal Translation
 
-My research interest includes **Multi-Modal Generative AI, Multi-Modal Language Processing, and AI4Science**. I have published **first-author papers** at the top international AI conferences such as **NeurIPS/ICLR/ICML/ACL/IJCAI**.
+In 2023, I lead or participate in the following research topics:
+- Speech/NLP: multimodal generation and translation
+- Large Language Models (LLMs): Audio/Visual
+- Diffusion models: Image/Audio/3D
 
-**I am actively looking for academic collaboration, feel free to drop me an email.**
+**I co-advise research interns with Alibaba [Qianwen team](https://github.com/QwenLM): always looking for research interns with strong CV/Audio/ML background, feel free to shoot an email if interested.**
 
 
 # 🔥 News
