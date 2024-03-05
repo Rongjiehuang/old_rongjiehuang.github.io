@@ -1,4 +1,5 @@
 # Selected Honors Awarded
+- Excellent Graduate, Zhejiang Province (2024). 
 - Chu Kochen Presidential Scholarship (2023), highest honor at Zhejiang University
 - ByteDance Scholar Fellowship (100k RMB Bonus), 10 students per year
 - ICML/ICLR Grant Award
@@ -12,6 +13,6 @@
 
 # Professional Services
 
-- Conference Reviewer/Program Committee: ICML 2022, ACM-MM 2022, NeurIPS 2022, ARR 2022, ICML 2023, ARR 2023, ACL 2023, EMNLP 2023, ACM-MM 2023, NeurIPS 2023, ICLR 2023, ICML 2023
-- Assist to Review: KDD 2022, AAAI 2022, EMNLP 2022, PRCV 2021, IEEE Transactions on Multimedia
+- Conference Reviewer/Program Committee: ICML 2022, ACM-MM 2022, NeurIPS 2022, ARR 2022, ICML 2023, ARR 2023, ACL 2023, EMNLP 2023, ACM-MM 2023, NeurIPS 2023, ICLR 2023, ICML 2023, Neuralcomputing, IJCAI 2024, ACM-MM 2024, ACL 2024, TIP
+- Assist to Review: KDD 2022, AAAI 2022, EMNLP 2022, PRCV 2021, TMM
 

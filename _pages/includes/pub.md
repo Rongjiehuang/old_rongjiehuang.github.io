@@ -1,7 +1,7 @@
 
 # 📝 Representative Publications 
 ## Multi-modal Generative AI
-- Spoken Large Language Model: **AudioGPT (AAAI demo 2024)**, **UniAudio**, **Make-A-Voice**, **Mega-TTS**, **HiFi-Codec**
+- Spoken Large Language Model: **AudioGPT (AAAI demo 2024)**, **UniAudio**, **Make-A-Voice**, **HiFi-Codec**
 - Text-to-Audio Synthesis: **Make-An-Audio (ICML 2023)**
 - Text-to-Speech Synthesis: **GenerSpeech (NeurIPS 2022)** for zero-shot text-to-speech, **FastDiff (IJCAI 2022) / ProDiff (ACM-MM 2022a)** for diffusion text-to-speech
 - Singing Voice Synthesis: **SingGAN (ACM-MM 2022b) / Multi-Singer (ACM-MM 2021)**
@@ -71,6 +71,8 @@ One of our **continuous efforts in generative modeling**, and we have follow-up 
 - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head.](https://arxiv.org/abs/2304.12995) **Rongjie Huang**, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe. **AAAI demo, 2024**
 
 - [StyleSinger: Style Transfer for Out-Of-Domain Singing Voice Synthesis.]() Yu Zhang#, **Rongjie Huang**, Ruiqi Li, Jinzheng He, Yan Xia, Feiyang Chen, Xinyu Duan, Baoxing Huai, Zhou Zhao. **AAAI, 2024.**
+
+- [Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis.]() Zhenhui Ye, Tianyun Zhong, Yi Ren, Jiaqi Yang, Weichuang Li, Jiawei Huang, Ziyue Jiang, Jinzheng He, **Rongjie Huang**, Jinglin Liu, Chen Zhang, Xiang Yin, Zejun Ma, Zhou Zhao. **ICLR, 2024.**
 
 
 # 2023
