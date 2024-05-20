@@ -23,7 +23,10 @@ In 2023, I lead or participate in the following research topics:
 
 <div class="scrollable">
   <ul>
-    <li><strong>2024.01</strong>: 1 papers are accepted by ICLR 2024!</li>
+    <li><strong>2024.05</strong>: 6 papers are accepted by ACL 2024! (main conference and findings)! Thanks to my co-authors! </li>
+    <li><strong>2024.05</strong>: 3 papers are accepted by ICML 2024!</li>
+    <li><strong>2024.03</strong>: 1 paper is accepted by MACCL 2024!</li>
+    <li><strong>2024.01</strong>: 1 paper is accepted by ICLR 2024!</li>
     <li><strong>2023.11</strong>: 2 papers are accepted by AAAI 2024 main / AAAI 2024 demo!</li>
     <li><strong>2023.10</strong>: <font color="red"> I am awarded ByteDance Scholar Fellowship, and Chu Kochen Presidential Scholarship! </font></li>
     <li><strong>2023.10</strong>: <a href="https://twitter.com/_akhaliq/status/1710112638422642732">UniAudio</a> released!</li>

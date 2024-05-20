@@ -1,7 +1,7 @@
 
 # 📝 Representative Publications 
 ## Multi-modal Generative AI
-- Spoken Large Language Model: **AudioGPT (AAAI demo 2024)**, **UniAudio**, **Make-A-Voice**, **HiFi-Codec**
+- Spoken Large Language Model: **InstructSpeech (ICML 2024)**, **UniAudio (ICML 2024)**, **AudioGPT (AAAI demo 2024)**, **Make-A-Voice (ACL 2024)**, **HiFi-Codec**
 - Text-to-Audio Synthesis: **Make-An-Audio (ICML 2023)**
 - Text-to-Speech Synthesis: **GenerSpeech (NeurIPS 2022)** for zero-shot text-to-speech, **FastDiff (IJCAI 2022) / ProDiff (ACM-MM 2022a)** for diffusion text-to-speech
 - Singing Voice Synthesis: **SingGAN (ACM-MM 2022b) / Multi-Singer (ACM-MM 2021)**
@@ -68,7 +68,31 @@ One of our **continuous efforts in generative modeling**, and we have follow-up 
 
 # 2024
 
+
+- [InstructSpeech: Following Speech Editing Instructions via Large Language Models.]() **Rongjie Huang**, Ruofan Hu, Yongqi Wang, Zehan Wang, Xize Cheng, Ziyue Jiang, Zhenhui Ye, Dongchao Yang, Luping Liu, Peng Gao, Zhou Zhao. **ICML, 2024.**
+
+- [Make-A-Voice: Multilingual Unified Voice Generation With Discrete Representation at Scale.]() **Rongjie Huang**, Chunlei Zhang, Yongqi Wang, Dongchao Yang, Jinchuan Tian, Luping Liu, Zhenhui Ye, Ziyue Jiang, Xuankai Chang, Jiatong Shi, Chao Weng, Zhou Zhao, Dong Yu. **ACL, 2024.**
+
 - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head.](https://arxiv.org/abs/2304.12995) **Rongjie Huang**, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe. **AAAI demo, 2024**
+
+- [UniAudio: An Audio Foundation Model Toward Universal Audio Generation.]() Dongchao Yang, Jinchuan Tian, Xu Tan, **Rongjie Huang**, Songxiang Liu, Xuankai Chang, Jiatong Shi, Sheng Zhao, Jiang Bian, Xixin Wu, Zhou Zhao, Shinji Watanabe, Helen M. Meng. **ICML, 2024.**
+
+- [Molecule-Space: Free Lunch in Unified Multimodal Space via Knowledge Fusion.]() Zehan Wang, Ziang Zhang, Xize Cheng, **Rongjie Huang**, Luping Liu, Zhenhui Ye, Haifeng Huang, Yang Zhao, Tao Jin, Peng Gao, Zhou Zhao. **ICML, 2024.**
+
+- [InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt.]() Dongchao Yang, Songxiang Liu, **Rongjie Huang**, Guangzhi Lei, Chao Weng, Helen Meng, Dong Yu. **IEEE Transactions on Acoustics, Speech, and Signal Processing.**
+
+- [Wav2SQL: Direct Generalizable Speech-To-SQL Parsing.]() Huadai Liu, **Rongjie Huang**, Jinzheng He, Ran Shen, Gang Sun, Xize Cheng and Zhou Zhao. **ACL, 2024.**
+
+- [Robust Singing Voice Transcription Serves Synthesis.]() Ruiqi Li, Yu Zhang, Yongqi Wang, Zhiqing Hong, **Rongjie Huang**, Zhou Zhao.  **ACL, 2024.**
+
+- [Text-to-Song: Towards Controllable Music Generation Incorporating Vocal and Accompaniment.]() Zhiqing Hong, **Rongjie Huang**, Xize Cheng, Yongqi Wang, Ruiqi Li, Fuming You, Zhou Zhao, Zhimeng Zhang.  **ACL, 2024.**
+
+- [Self-Supervised Singing Voice Pre-Training towards Speech-to-Singing Conversion.]() Ruiqi Li, **Rongjie Huang**, Yongqi Wang, Zhiqing Hong, Zhou Zhao. **ACL, 2024.**
+
+- [TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation.]() Xize Cheng, **Rongjie Huang**, Linjun Li, Tao Jin, Zehan Wang, Aoxiong Yin, Minglei Li, Xinyu Duan, changpeng yang, Zhou Zhao.  **ACL, 2024.**
+
+- [Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis.]() Zhenhui Ye, Tianyun Zhong, Yi Ren, Jiaqi Yang, Weichuang Li, Jiawei Huang, Ziyue Jiang, Jinzheng He, **Rongjie Huang**, Jinglin Liu, Chen Zhang, Xiang Yin, Zejun MA, Zhou Zhao. **ICLR, 2024.**
+
 
 - [StyleSinger: Style Transfer for Out-Of-Domain Singing Voice Synthesis.]() Yu Zhang#, **Rongjie Huang**, Ruiqi Li, Jinzheng He, Yan Xia, Feiyang Chen, Xinyu Duan, Baoxing Huai, Zhou Zhao. **AAAI, 2024.**
 
@@ -78,8 +102,6 @@ One of our **continuous efforts in generative modeling**, and we have follow-up 
 # 2023
 
 - [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models.]() **Rongjie Huang**, Jiawei Huang, Dongchao Yang, Yi Ren, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao. **ICML, 2023. Hawaii, USA**
-
-- [UniAudio: An Audio Foundation Model Toward Universal Audio Generation.](https://arxiv.org/abs/2310.00704) Dongchao Yang, Jinchuan Tian, Xu Tan, **Rongjie Huang**, Songxiang Liu, Xuankai Chang, Jiatong Shi, Sheng Zhao, Jiang Bian, Xixin Wu, Zhou Zhao, Shinji Watanabe, Helen Meng. **Arxiv, 2023**
 
 - [Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias.]() Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, Shengpeng Ji, **Rongjie Huang**, Chunfeng Wang, Xiang Yin, Zejun Ma, Zhou Zhao. **Arxiv**
 
