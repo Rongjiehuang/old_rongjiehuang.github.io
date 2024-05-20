@@ -81,15 +81,15 @@ One of our **continuous efforts in generative modeling**, and we have follow-up 
 
 - [InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt.]() Dongchao Yang, Songxiang Liu, **Rongjie Huang**, Guangzhi Lei, Chao Weng, Helen Meng, Dong Yu. **IEEE Transactions on Acoustics, Speech, and Signal Processing.**
 
-- [Wav2SQL: Direct Generalizable Speech-To-SQL Parsing.]() Huadai Liu, **Rongjie Huang**, Jinzheng He, Ran Shen, Gang Sun, Xize Cheng and Zhou Zhao. **ACL, 2024.**
-
 - [Robust Singing Voice Transcription Serves Synthesis.]() Ruiqi Li, Yu Zhang, Yongqi Wang, Zhiqing Hong, **Rongjie Huang**, Zhou Zhao.  **ACL, 2024.**
 
 - [Text-to-Song: Towards Controllable Music Generation Incorporating Vocal and Accompaniment.]() Zhiqing Hong, **Rongjie Huang**, Xize Cheng, Yongqi Wang, Ruiqi Li, Fuming You, Zhou Zhao, Zhimeng Zhang.  **ACL, 2024.**
 
-- [Self-Supervised Singing Voice Pre-Training towards Speech-to-Singing Conversion.]() Ruiqi Li, **Rongjie Huang**, Yongqi Wang, Zhiqing Hong, Zhou Zhao. **ACL, 2024.**
+- [TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation.]() Xize Cheng, **Rongjie Huang**, Linjun Li, Tao Jin, Zehan Wang, Aoxiong Yin, Minglei Li, Xinyu Duan, changpeng yang, Zhou Zhao.  **ACL finding, 2024.**
 
-- [TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation.]() Xize Cheng, **Rongjie Huang**, Linjun Li, Tao Jin, Zehan Wang, Aoxiong Yin, Minglei Li, Xinyu Duan, changpeng yang, Zhou Zhao.  **ACL, 2024.**
+- [Wav2SQL: Direct Generalizable Speech-To-SQL Parsing.]() Huadai Liu, **Rongjie Huang**, Jinzheng He, Ran Shen, Gang Sun, Xize Cheng and Zhou Zhao. **ACL finding, 2024.**
+
+- [Self-Supervised Singing Voice Pre-Training towards Speech-to-Singing Conversion.]() Ruiqi Li, **Rongjie Huang**, Yongqi Wang, Zhiqing Hong, Zhou Zhao. **ACL finding, 2024.**
 
 - [Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis.]() Zhenhui Ye, Tianyun Zhong, Yi Ren, Jiaqi Yang, Weichuang Li, Jiawei Huang, Ziyue Jiang, Jinzheng He, **Rongjie Huang**, Jinglin Liu, Chen Zhang, Xiang Yin, Zejun MA, Zhou Zhao. **ICLR, 2024.**
 
@@ -118,7 +118,7 @@ One of our **continuous efforts in generative modeling**, and we have follow-up 
 
 - [AlignSTS: Speech-to-Singing Conversion via Cross-Modal Alignment.]() Ruiqi Li#, **Rongjie Huang**, Lichao Zhang, Jinglin Liu, Zhou Zhao. **ACL finding, 2023**
 
-- [RMSSinger: Realistic-Music-Score based Singing Voice Synthesis.]() Jinzheng He, Jinglin Liu, Zhenhui Ye, **Rongjie Huang**, Chenye Cui, Huadai Liu, Zhou Zhao. **ACL findingfinding, 2023**
+- [RMSSinger: Realistic-Music-Score based Singing Voice Synthesis.]() Jinzheng He, Jinglin Liu, Zhenhui Ye, **Rongjie Huang**, Chenye Cui, Huadai Liu, Zhou Zhao. **ACL finding, 2023**
 
 - [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models.]() Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, **Rongjie Huang**, Yi Ren, Zhou Zhao. **ACL finding, 2023**
 
