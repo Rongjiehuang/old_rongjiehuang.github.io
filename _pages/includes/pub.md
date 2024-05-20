@@ -93,10 +93,9 @@ One of our **continuous efforts in generative modeling**, and we have follow-up 
 
 - [Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis.]() Zhenhui Ye, Tianyun Zhong, Yi Ren, Jiaqi Yang, Weichuang Li, Jiawei Huang, Ziyue Jiang, Jinzheng He, **Rongjie Huang**, Jinglin Liu, Chen Zhang, Xiang Yin, Zejun MA, Zhou Zhao. **ICLR, 2024.**
 
-
 - [StyleSinger: Style Transfer for Out-Of-Domain Singing Voice Synthesis.]() Yu Zhang#, **Rongjie Huang**, Ruiqi Li, Jinzheng He, Yan Xia, Feiyang Chen, Xinyu Duan, Baoxing Huai, Zhou Zhao. **AAAI, 2024.**
 
-- [Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis.]() Zhenhui Ye, Tianyun Zhong, Yi Ren, Jiaqi Yang, Weichuang Li, Jiawei Huang, Ziyue Jiang, Jinzheng He, **Rongjie Huang**, Jinglin Liu, Chen Zhang, Xiang Yin, Zejun Ma, Zhou Zhao. **ICLR, 2024.**
+- [Prompt-Singer: Controllable Singing-Voice-Synthesis with Natural Language Prompt]() Yongqi Wang#, Ruofan Hu#, **Rongjie Huang**, Zhiqing Hong, Ruiqi Li, Wenrui Liu, Fuming You, Tao Jin, Zhou Zhao. **NAACL, 2024.**
 
 
 # 2023
