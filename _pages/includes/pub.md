@@ -66,6 +66,26 @@ One of our **continuous efforts in generative modeling**, and we have follow-up 
 # Full Publication List
 * denotes co-first authors, # denotes co-supervised
 
+# 2025
+- [OmniSep: Unified Omni-modal Sound Separation.]() Xize Cheng, Zehan Wang, Ziang Zhang, **Rongjie Huang**, Jialung Zuo, Shengpeng Ji, Ziyang Ma, Siqi Zheng, Tao Jin, Zhou Zhao. **ICLR, 2025**
+
+- [Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers.]() Peng Gao, Le Zhuo, Dongyang Liu, Ruoyi Du, Xu Luo, Longtian Qiu, Yuhang Zhang, **Rongjie Huang**, Shijie Geng, Renrui Zhang, Junlin Xie, Wenqi Shao, Zhengkai Jiang, Tianshuo Yang, Weicai Ye. **ICLR, 2025**
+
+- [GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation.]() Zhenhui Ye, Jinzheng He, Ziyue Jiang, **Rongjie Huang**, Jiawei Huang, Jinglin Liu, Yi Ren, Xiang Yin, Zejun MA, Zhou Zhao. **ICLR, 2025**
+
+- [WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling.]() Shengpeng Ji, Ziyue Jiang, Wen Wang, Yifu Chen, Minghui Fang, Jialong Zuo, Qian Yang, Xize Cheng, Zehan Wang, Ruiqi Li, Ziang Zhang, Xiaoda Yang, **Rongjie Huang**, Yidi Jiang, Qian Chen. **ICLR, 2025**
+
+- [Improving Multi-modal Representations via Binding Space in Scale.]() Zehan Wang, Ziang Zhang, Minjie Hong, Hang Zhang, Luping Liu, **Rongjie Huang**, Xize Cheng, Shengpeng Ji, Tao Jin, Hengshuang Zhao, Zhou Zhao.  **ICLR, 2025**
+
+- [VoxDialogue: Can Spoken Dialogue Systems Understand Information Beyond Words?]() Xize Cheng, Ruofan Hu, Xiaoda Yang, Jingyu Lu, Dongjie Fu, Zehan Wang, Shengpeng Ji, Rongjie Huang, Boyang Zhang, Tao Jin, Zhou Zhao.  **ICLR, 2025**
+
+- [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching.]() Wenxiang Guo, Yu Zhang, Changhao Pan, **Rongjie Huang**, Li Tang, Ruiqi Li, Zhiqing Hong, Yongqi Wang, Zhou Zhao. **AAAI, 2025**
+
+- [3D-Speaker-Toolkit: An Open-Source Toolkit for Multimodal Speaker Verification and Diarization.]() Yafeng Chen, Siqi Zheng, Hui Wang, **Rongjie Huang**, Qian Chen, Shiliang Zhang, Wen Wang, Xihao Li. **ICASSP, 2025**
+
+- [NAT3DSound: 3D Spatial Sound Field Synthesis with Multi-Modal Non-Autoregressive Transformer.]() Fuming You, **Rongjie Huang**, Boyang Zhang, Yongqi Wang, Zhiqing Hong, Qian Yang, Zhimeng Zhang, Zhou Zhao. **ICASSP, 2025**
+
+
 # 2024
 
 
@@ -96,6 +116,8 @@ One of our **continuous efforts in generative modeling**, and we have follow-up 
 - [StyleSinger: Style Transfer for Out-Of-Domain Singing Voice Synthesis.]() Yu Zhang#, **Rongjie Huang**, Ruiqi Li, Jinzheng He, Yan Xia, Feiyang Chen, Xinyu Duan, Baoxing Huai, Zhou Zhao. **AAAI, 2024.**
 
 - [Prompt-Singer: Controllable Singing-Voice-Synthesis with Natural Language Prompt]() Yongqi Wang#, Ruofan Hu#, **Rongjie Huang**, Zhiqing Hong, Ruiqi Li, Wenrui Liu, Fuming You, Tao Jin, Zhou Zhao. **NAACL, 2024.**
+
+- [EchoAudio: Efficient and High-Quality Text-to-Audio Generation with Minimal Inference Steps]() Huadai Liu, **Rongjie Huang**, Yang Liu, Hengyuan Cao, Jialei Wang, Xize Cheng, Siqi Zheng, Zhou Zhao. **ACMMM, 2024.**
 
 
 # 2023
